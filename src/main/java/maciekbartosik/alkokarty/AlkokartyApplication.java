@@ -11,7 +11,7 @@ public class AlkokartyApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Hello Docker World test 5";
+		return "Hello Docker World test heroku";
 	}
 
 	public static void main(String[] args) {
